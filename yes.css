@@ -1,0 +1,33 @@
+p
+{
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: yellow;
+    font-weight: 800;
+    font-style: oblique;
+    
+
+    text-transform: capitalize;
+    text-decoration: none;
+    vertical-align: auto;
+    text-shadow: 30px 30px 30px;
+    text-align: left;
+    line-height: normal;
+}
+body{
+    background-color:rgb(85, 94, 95);
+    text-align: justify;
+    text-indent: 50px;
+    
+
+}
+
+a{
+    color: brown;
+}
+
+th{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkorange;
+    font-size: 150%;
+}
